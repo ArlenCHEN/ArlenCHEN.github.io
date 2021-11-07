@@ -83,13 +83,13 @@ author:
   name             : "Zheng Chen"
   avatar           : "profile.png"
   bio              : "PhD student, Indiana University Bloomington"
-  location         : "Intelligent Systems Engineering"
+#   location         : "Intelligent Systems Engineering"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X6MkScIAAAAJ&hl=en"
   email            : "zc11@iu.edu"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://arlenchen.github.io/"
+#   uri              : "https://arlenchen.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
