@@ -15,7 +15,7 @@ My research interests include perception, deep learning and autonomous navigatio
 * _Deep Learning_ is an extremely important learning-based method for solving preception problems. Applications of deep learning in robotics are strictly limited due to the availability of training data. I have been working on developing models with **Unsupervised-learning-based paradigm** ([NeurIPS'21-ML4AD](https://arxiv.org/pdf/2111.01127.pdf), [submitted to ICRA'22](https://arxiv.org/pdf/2111.00063.pdf)) and with **Domain Adaptation** (Ongoing work) for constructing navigable space and extracting semantic information.
 * _Autonomous Navigation_ is a fundamental capability for deploying mobile robots in the real world. I have been working on developing methods for **Visual Navigation** [(submitted to ICRA'22)](https://arxiv.org/pdf/2111.00063.pdf) and **Exploration** [(ArXiv)](https://arxiv.org/pdf/2111.00067.pdf).
 
-You can find my CV [here](https://drive.google.com/drive/u/0/folders/19rK9z0Jr-6CPvh5koFRny-r2IckBxpao).
+You can find my CV [here](https://github.com/ArlenCHEN/ArlenCHEN.github.io/blob/master/files/CV_Zheng_Chen.pdf).
 
 Publications
 ===============
