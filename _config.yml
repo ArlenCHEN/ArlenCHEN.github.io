@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Chen"
+title                    : "Love and Wisdom"
 title_separator          : "-"
 name                     : &name "Zheng Chen"
 description              : &description "PhD student, Robotics, Computer Vision, Deep Learning"
