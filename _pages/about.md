@@ -22,7 +22,7 @@ Publications
 <b>[Polyline Based Generative Navigable Space Segmentation for Autonomous Visual Navigation](https://arxiv.org/pdf/2111.00063.pdf)</b> <br> 
 <b> Zheng Chen </b>, Zhengming Ding, David Crandall, Lantao Liu.
 <i>submitted to ICRA'22</i>. <br />
-<span>[[pdf](https://arxiv.org/pdf/2111.00063.pdf])]</span> <span>[[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:a92l3KDSLsoJ:scholar.google.com/&output=citation&scisdr=CgUU39_bEKfIsnBJYyo:AAGBfm0AAAAAYYhMeyrrX4ZIyR381tax1AS2aUQGkOvb&scisig=AAGBfm0AAAAAYYhMe6vPly0UhEFDW4UJx1UBDIsZeDjx&scisf=4&ct=citation&cd=-1&hl=en])]</span> <span>[[Supplementary](https://drive.google.com/drive/u/0/folders/12oahE-nOX_-0I184Ooh5pIuqWOd0wB3H])]</span> <span>[[Slide](https://docs.google.com/presentation/d/1b9VkSy0ZL27biKr0NMfWJTm6NzxoqXlaqlNmS4m2bPY/edit#slide=id.p])]</span>
+<span>[[pdf](https://arxiv.org/pdf/2111.00063.pdf])]</span> <span>[[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:a92l3KDSLsoJ:scholar.google.com/&output=citation&scisdr=CgUU39_bEKfIsnBJYyo:AAGBfm0AAAAAYYhMeyrrX4ZIyR381tax1AS2aUQGkOvb&scisig=AAGBfm0AAAAAYYhMe6vPly0UhEFDW4UJx1UBDIsZeDjx&scisf=4&ct=citation&cd=-1&hl=en])]</span> <span>[[Supplementary](https://www.youtube.com/watch?v=xqidNhvwKzI&t=638s])]</span> <span>[[Slide](https://docs.google.com/presentation/d/1b9VkSy0ZL27biKr0NMfWJTm6NzxoqXlaqlNmS4m2bPY/edit#slide=id.p])]</span>
 
 <b>[NSS-VAEs: Generative Scene Decomposition for Visual Navigable Space Construction](https://arxiv.org/pdf/2111.01127.pdf)</b> <br> 
 <b> Zheng Chen </b>, Lantao Liu.
