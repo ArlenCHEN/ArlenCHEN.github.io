@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Love and Wisdom"
 title_separator          : "-"
-name                     : &name "Zheng Chen"
+name                     : &name "Love and Wisdom"
 description              : &description "PhD student, Robotics, Computer Vision, Deep Learning"
 url                      : https://arlenchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
